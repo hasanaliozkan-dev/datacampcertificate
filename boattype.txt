@@ -1,0 +1,126 @@
+Motor Yacht
+Center console boat
+Sport Boat
+Fishing Boat
+Catamaran
+Pontoon Boat
+Runabout
+Pilothouse
+Cabin Boat
+Working Boat
+Deck Boat
+Classic
+Bowrider
+Sport Boat,Working Boat
+Cabin Boat,Classic
+Deck Boat,Pilothouse,Sport Boat
+Trawler
+Launch
+Cabin Boat,Trawler
+Bowrider,Classic
+Motor Yacht,Sport Boat
+Classic,Runabout,Sport Boat
+Cabin Boat,Motor Yacht
+Classic,Launch
+Cabin Boat,Sport Boat
+Flybridge
+Water ski
+Hardtop
+Classic,Runabout
+Offshore Boat
+Cabin Boat,Sport Boat,Wakeboard/Wakesurf
+Classic,Pontoon Boat
+Classic,Motor Yacht
+Motor Yacht,Sport Boat,Trawler
+Passenger boat
+Classic,Sport Boat,Water ski
+Classic,Sport Boat
+House Boat
+Classic,Motorsailer
+Sport Boat,Wakeboard/Wakesurf
+Pilothouse,Sport Boat
+House Boat,Motor Yacht
+Cabin Boat,Classic,Trawler
+Passenger boat,Working Boat
+Wakeboard/Wakesurf,Water ski
+Classic,Motor Yacht,Passenger boat
+Offshore Boat,Pilothouse
+Wakeboard/Wakesurf
+Runabout,Sport Boat,Water ski
+Bowrider,Sport Boat,Wakeboard/Wakesurf
+Sport Boat,Water ski
+Cabin Boat,Classic,Motor Yacht
+Classic,Flybridge
+Flybridge,Pilothouse
+Flybridge,Motor Yacht
+Classic,Working Boat
+Classic,Pontoon Boat,Trawler
+Sport Boat,Wakeboard/Wakesurf,Water ski
+Classic,Trawler
+Ketch
+Runabout,Sport Boat
+Cabin Boat,Hardtop,Trawler
+Cabin Boat,Motor Yacht,Sport Boat
+Classic,House Boat,Motor Yacht
+Hardtop,Motor Yacht
+Mega Yacht
+Hardtop,Mega Yacht,Motor Yacht
+Flybridge,Hardtop,Motor Yacht
+Motorsailer
+Classic,Mega Yacht
+Cabin Boat,Motor Yacht,Offshore Boat
+Center console boat,Classic
+Cabin Boat,Motor Yacht,Trawler
+Bowrider,Motor Yacht,Wakeboard/Wakesurf
+Motor Yacht,Trawler
+Hardtop,Motor Yacht,Sport Boat
+Classic,House Boat,Passenger boat
+House Boat,Motor Yacht,Trawler
+Cabin Boat,Hardtop,Motor Yacht
+Cabin Boat,Flybridge
+Fishing Boat,Launch,Motor Yacht
+Cabin Boat,House Boat
+Cabin Boat,Hardtop
+Bowrider,Motor Yacht,Sport Boat
+Classic,Deck Boat
+Cabin Boat,Flybridge,Motor Yacht
+Classic,Motor Yacht,Sport Boat
+Bowrider,Cabin Boat,Deck Boat
+Motor Yacht,Wakeboard/Wakesurf
+Classic,Motor Yacht,Water ski
+Passenger boat,Runabout,Sport Boat
+Offshore Boat,Sport Boat
+Center console boat,Sport Boat
+Cabin Boat,Fishing Boat,Pilothouse
+Cabin Boat,Pilothouse
+Center console boat,Fishing Boat,Sport Boat
+Fishing Boat,Flybridge,Trawler
+Motor Yacht,Sport Boat,Water ski
+Cabin Boat,Hardtop,Sport Boat
+Fishing Boat,Sport Boat
+Classic,Hardtop,Motor Yacht
+Center console boat,Deck Boat,Working Boat
+Center console boat,Sport Boat,Water ski
+Fishing Boat,Pilothouse
+Bowrider,Wakeboard/Wakesurf
+House Boat,Sport Boat,Trawler
+Cabin Boat,House Boat,Trawler
+Cabin Boat,Fishing Boat
+Bowrider,Center console boat,Sport Boat
+Cabin Boat,Pilothouse,Sport Boat
+Cabin Boat,Classic,Passenger boat
+Fishing Boat,Passenger boat,Sport Boat
+Classic,Fishing Boat,Working Boat
+Center console boat,Deck Boat,Sport Boat
+Cabin Boat,Classic,Flybridge
+Fishing Boat,Hardtop,Pilothouse
+Cabin Boat,Fishing Boat,House Boat
+Cabin Boat,Sport Boat,Water ski
+Bowrider,Deck Boat,Water ski
+RIB
+Deck Boat,Water ski
+Classic,Fishing Boat
+Hardtop,Sport Boat
+Cabin Boat,Fishing Boat,Sport Boat
+Classic,Runabout,Trawler
+Classic,Sport Boat,Trawler
